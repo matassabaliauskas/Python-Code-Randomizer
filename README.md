@@ -1,8 +1,15 @@
 # Python-Code_Randomizer
 This code takes a C or C++ file as an input, and randomizes it making it unintelligible to read. 
 
-
-note: make sure that there are no comments in the code as it might cause bugs to pop-off
+To run this code:
+1. Create a new python project in your IDE (such as Pycharm)
+2. Download the python source code
+3. Add .c (C) or .cpp (C++) file to the directory
+4. Change the name of the file input inside the python script
+5. Run the script! A new C/C++ file will now be generated in the directory 
+ 
+note1: make sure that there are no comments in the code as it might cause bugs to pop-off
+note2: you can choose your own random character, or choose a random-string-generator to replace your code
 
 ------------------------------------------------------------
 
